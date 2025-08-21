@@ -1,0 +1,5 @@
+{
+  "name": "Video Prism",
+  "description": "Video Prism is a mobile-friendly web app that helps you quickly understand YouTube content. Search topics to see grouped results for Videos and Shorts, each with AI-powered summaries, metadata, and transcripts when available. Features include key moments, direct YouTube links, and a clean, responsive UI.\n",
+  "requestFramePermissions": []
+}
